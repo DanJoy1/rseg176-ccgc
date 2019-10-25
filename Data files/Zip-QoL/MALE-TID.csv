@@ -1,4 +1,7 @@
-﻿Tract ID,e(0)
+﻿Data source: https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Datasets/NVSS/USALEEP/CSV/MA_A.CSV,
+Found on site: https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html#life-expectancy,
+Example Widget: https://www.rwjf.org/en/library/interactives/whereyouliveaffectshowlongyoulive.html,
+Tract ID,e(0)
 25001010100,78.7
 25001010206,82.2
 25001010304,79

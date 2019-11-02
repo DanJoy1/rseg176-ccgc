@@ -1,0 +1,69 @@
+C:\Development\CloudComputing\CloudComputing\bin\CloudComputing.dll
+C:\Development\CloudComputing\CloudComputing\bin\CloudComputing.pdb
+C:\Development\CloudComputing\CloudComputing\bin\CloudComputing.xml
+C:\Development\CloudComputing\CloudComputing\bin\Antlr3.Runtime.dll
+C:\Development\CloudComputing\CloudComputing\bin\AspNet.ScriptManager.jQuery.dll
+C:\Development\CloudComputing\CloudComputing\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Development\CloudComputing\CloudComputing\bin\DotNetOpenAuth.AspNet.dll
+C:\Development\CloudComputing\CloudComputing\bin\DotNetOpenAuth.Core.dll
+C:\Development\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Development\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OAuth.dll
+C:\Development\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OpenId.dll
+C:\Development\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Development\CloudComputing\CloudComputing\bin\EntityFramework.dll
+C:\Development\CloudComputing\CloudComputing\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Development\CloudComputing\CloudComputing\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Development\CloudComputing\CloudComputing\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Development\CloudComputing\CloudComputing\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Development\CloudComputing\CloudComputing\bin\Microsoft.Web.Infrastructure.dll
+C:\Development\CloudComputing\CloudComputing\bin\System.Web.Optimization.dll
+C:\Development\CloudComputing\CloudComputing\bin\System.Web.Providers.dll
+C:\Development\CloudComputing\CloudComputing\bin\WebGrease.dll
+C:\Development\CloudComputing\CloudComputing\bin\EntityFramework.xml
+C:\Development\CloudComputing\CloudComputing\bin\DotNetOpenAuth.Core.xml
+C:\Development\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OAuth.xml
+C:\Development\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Development\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OpenId.xml
+C:\Development\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Development\CloudComputing\CloudComputing\bin\DotNetOpenAuth.AspNet.xml
+C:\Development\CloudComputing\CloudComputing\obj\Debug\CloudComputing.vbprojResolveAssemblyReference.cache
+C:\Development\CloudComputing\CloudComputing\obj\Debug\CloudComputing.Resources.resources
+C:\Development\CloudComputing\CloudComputing\obj\Debug\CloudComputing.vbproj.GenerateResource.Cache
+C:\Development\CloudComputing\CloudComputing\obj\Debug\CloudComputing.dll
+C:\Development\CloudComputing\CloudComputing\obj\Debug\CloudComputing.xml
+C:\Development\CloudComputing\CloudComputing\obj\Debug\CloudComputing.pdb
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\CloudComputing.dll.config
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\CloudComputing.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\CloudComputing.pdb
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\CloudComputing.xml
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\Antlr3.Runtime.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\DotNetOpenAuth.Core.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\EntityFramework.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\System.Web.Optimization.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\System.Web.Providers.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\WebGrease.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\EntityFramework.xml
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\DotNetOpenAuth.Core.xml
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\obj\Debug\CloudComputing.vbprojResolveAssemblyReference.cache
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\obj\Debug\CloudComputing.Resources.resources
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\obj\Debug\CloudComputing.vbproj.GenerateResource.Cache
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\obj\Debug\CloudComputing.dll
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\obj\Debug\CloudComputing.xml
+C:\Users\kevin.markvenas\Documents\Visual Studio 2015\Projects\CloudComputing\CloudComputing\obj\Debug\CloudComputing.pdb

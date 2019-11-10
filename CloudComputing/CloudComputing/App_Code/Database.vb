@@ -83,6 +83,7 @@ Public Class Database
                         detailRow.lifeexpectancy = CType(dr("expectancy"), String)
                         detailRow.county = CType(dr("county"), String)
                         detailRow.population = CType(dr("population"), String)
+                        detailRow.countypoverty = CType(dr("countypoverty"), String)
                         retVal.Add(detailRow)
                     End While
                 End If

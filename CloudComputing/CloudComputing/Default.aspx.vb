@@ -5,6 +5,8 @@
         cardioheading.Visible = False
         cardio.Visible = False
         lblMessage.Visible = False
+        containercloud.Visible = False
+        pdiv.Visible = False
     End Sub
 
     Protected Sub btnSubmit_Click(sender As Object, e As EventArgs) Handles btnSubmit.Click
@@ -38,6 +40,7 @@
                 lblMessage.Text = "No data is available for the zip code or city entered."
                 cardioheading.Visible = False
                 cardio.Visible = False
+                containercloud.Visible = False
             End If
 
         Else
@@ -45,6 +48,7 @@
             lblMessage.Text = "Please enter a valid Massachusetts zip code or city."
             cardioheading.Visible = False
             cardio.Visible = False
+            containercloud.Visible = False
         End If
     End Sub
 
@@ -75,9 +79,14 @@
         tHeader.Cells.Add(tc3)
 
         Dim tc4 As New TableHeaderCell
-        tc4.Text = "2015 Population"
+        tc4.Text = "County Poverty %"
         tc4.Scope = TableHeaderScope.Column
         tHeader.Cells.Add(tc4)
+
+        Dim tc5 As New TableHeaderCell
+        tc5.Text = "2015 Population"
+        tc5.Scope = TableHeaderScope.Column
+        tHeader.Cells.Add(tc5)
 
         LifeExpectancyTable.Rows.Add(tHeader)
 
@@ -118,11 +127,19 @@
 
             Dim tCell04 As New TableCell
             Dim h04 As New Label()
-            h04.Text = row.population
+            h04.Text = row.countypoverty
             tCell04.Controls.Add(h04)
             'tCell00.HorizontalAlign = HorizontalAlign.Center
             tCell04.VerticalAlign = VerticalAlign.Middle
             tRow.Cells.Add(tCell04)
+
+            Dim tCell05 As New TableCell
+            Dim h05 As New Label()
+            h05.Text = row.population
+            tCell05.Controls.Add(h05)
+            'tCell00.HorizontalAlign = HorizontalAlign.Center
+            tCell05.VerticalAlign = VerticalAlign.Middle
+            tRow.Cells.Add(tCell05)
 
             LifeExpectancyTable.Rows.Add(tRow)
         Next
@@ -134,6 +151,8 @@
 
         cardioheading.Visible = True
         cardio.Visible = True
+        containercloud.Visible = True
+        pdiv.Visible = True
 
         'tHeader.BackColor = Color.Silver
         tHeader.BorderStyle = BorderStyle.Solid

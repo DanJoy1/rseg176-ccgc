@@ -1,7 +1,7 @@
 USE [CloudComputing]
 GO
 
-/****** Object:  StoredProcedure [dbo].[GetLifeExpectancyByCity]    Script Date: 10/31/2019 7:47:56 PM ******/
+/****** Object:  StoredProcedure [dbo].[GetLifeExpectancyByCity]    Script Date: 11/26/2019 7:04:44 PM ******/
 SET ANSI_NULLS ON
 GO
 
@@ -15,7 +15,7 @@ GO
 -- Create date: <Create Date,,>
 -- Description:	<Description,,>
 -- =============================================
-ALTER PROCEDURE [dbo].[GetLifeExpectancyByCity]
+CREATE PROCEDURE [dbo].[GetLifeExpectancyByCity]
 	(
 		@searchstr varchar(50)
 	)
@@ -24,9 +24,10 @@ BEGIN
 	
 	SET NOCOUNT ON;
 
-    SELECT TOP 1 [B].[zipcode], [B].[City], [A].[expectancy], [B].[county], [B].[population2015] as [population]
+    SELECT TOP 1 [B].[zipcode], [B].[City], [A].[expectancy], [B].[county], [P].[percent] as [countypoverty], [B].[population2015] as [population]
 	FROM [trackinginfo] [A] WITH (NOLOCK)
 	INNER JOIN [zipcode] [B] WITH (NOLOCK) ON [B].[trackingid] = [A].[trackingid]
+	LEFT JOIN [poverty] [P] WITH (NOLOCK) ON [P].locationid = [A].[trackingshort]
 	WHERE [B].[city] = @searchstr
 END
 GO
